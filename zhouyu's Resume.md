@@ -58,6 +58,15 @@
 
     - 技术文章：[Django入门笔记汇总博客](https://blog.csdn.net/yuzhou_1shu/article/details/102983845)
 
+## <img src="pics/tools-solid.svg" width="30px"> 技能清单
+
+- ★★★ 热爱技术与阅读、Python
+- ★★★ MySQL、SQLite、Redis、ORM
+- ★★★ Linux、MacOS
+- ★★☆ Django、Flask
+- ★★☆ JavaScript、HTML、CSS
+- ★★☆ Git、SVN
+
 ## <img src="pics/activity.svg" width="30px"> 在校活动
 
 - 广东工业大学计算机学院研究生学生辅导员，组织过多场学术研讨会、企业沙龙、毕业季相关活动
@@ -71,12 +80,6 @@
 - 广东工业大学研究生一等学业奖学金 / 优秀学生干部
 - 湖南农业大学三好学生 / 一等奖学金
 
-## <img src="pics/tools-solid.svg" width="30px"> 技能清单
+## <img src="pics/resume.svg" width="30px"> 在线简历
 
-- ★★★ 热爱技术与阅读、Python
-- ★★☆ Java、Go
-- ★★★ MySQL、SQLite、Redis、ORM
-- ★★★ Linux、MacOS
-- ★★☆ Django、Flask
-- ★★☆ JavaScript、HTML、CSS
-- ★★☆ Git、SVN
+<img src="pics/zhouyu_resume.png" width="100px">
